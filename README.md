@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
 
-<p>
- 
-<p align="center">
+<h3 align="center">
 🚀 Passionate Developer | Full-Stack MERN Developer | C++ & DSA Enthusiast  
-💻 Proficient in C++ with strong foundations in Data Structures & Algorithms  
-🌐 Full-Stack Web Developer skilled in MongoDB, Express.js, React.js, Node.js  
-📊 Familiar with Power BI, SQL, and Excel for data analysis & dashboard creation  
-📈 Continuously learning, building, and contributing to meaningful tech solutions  
-</p>
+<br>💻 Proficient in C++ with strong foundations in Data Structures & Algorithms  
+<br>🌐 Full-Stack Web Developer skilled in MongoDB, Express.js, React.js, Node.js  
+<br>📊 Familiar with Power BI, SQL, and Excel for data analysis & dashboard creation  
+<br>📈 Continuously learning, building, and contributing to meaningful tech solutions  
+</h3>
+
 
 
 
