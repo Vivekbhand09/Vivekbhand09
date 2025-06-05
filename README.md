@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
-<h4 align="center">I'm a C++ programmer and a Data Structures & Algorithms (DSA) enthusiast, who loves solving complex problems with efficient logic. With a strong foundation in DSA, I’ve built multiple projects that reflect both performance and precision. As a MERN Stack Developer, I create dynamic and responsive full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning ideas into reality through clean code and intuitive UI/UX. Beyond web development, I’m also skilled in: 📊 Power BI, Excel – for data analysis and dashboard creation 🛢️ SQL – for efficient data handling and querying 🎨 Canva – for designing clean and impactful visual content.</h4>
+
 
  <img align="right" src="coding.gif" alt="Coding GIF" width="400" height="225" />
 
