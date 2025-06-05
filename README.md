@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
 
 
-<h4 text='center'>
+<h4 align='center'>
 I'm a passionate developer with a strong foundation in C++ and Data Structures & Algorithms. As a Full-Stack Web Developer, I specialize in the MERN stack—MongoDB, Express.js, React.js, and Node.js. In addition to web development, I have experience working with Power BI, SQL, and Excel for data analysis and dashboard creation. I'm always eager to learn new technologies, build impactful solutions, and contribute to meaningful tech projects.
 </h4>
 
