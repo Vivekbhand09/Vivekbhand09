@@ -13,7 +13,7 @@ I'm a passionate developer with a strong foundation in C++ and Data Structures &
 
 - 📫 How to reach me **bhandvivek974@gmail.com**
   
-- Visit my <a https://my-portfolio-eight-bice-18.vercel.app/"> Website</a>
+- Visit my <a href="https://my-portfolio-eight-bice-18.vercel.app/">Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
