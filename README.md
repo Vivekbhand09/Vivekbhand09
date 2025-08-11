@@ -1,16 +1,42 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
 
-<h3 align="center">I’m a Full Stack Java Developer, building robust, scalable, and enterprise-grade applications using Spring Boot for the backend and React.js for the frontend. My Java development expertise includes Spring Boot, Spring REST API, Spring Data, Hibernate, H2 Database, Lombok, Spring Web, Spring Dev Tools, Spring Cloud, Spring AI, Microservices, Spring Authorization Server, Spring Security, and Spring Session, enabling me to deliver secure, efficient, and maintainable solutions. Alongside Java, I’m also a MERN Stack Developer, creating dynamic and responsive full-stack applications using MongoDB, Express.js, React.js, and Node.js. I’m passionate about transforming ideas into reality through clean code, strong backend architecture, and intuitive UI/UX. Beyond web development, I’m a C++ programmer and DSA enthusiast, with a strong foundation in solving complex problems through efficient logic. I’ve built multiple projects that showcase both performance and precision. Additionally, I’m skilled in: 📊 Power BI, Excel – for data analysis and dashboard creation 🛢️ SQL – for efficient data handling and querying 🎨 Canva – for designing clean and impactful visual content</h3>
+<p align="center">
+I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot</b> for the backend and <b>React.js</b> for the frontend.
+</p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-eight-bice-18.vercel.app/)
+---
 
-- 💬 Ask me about **DSA , MERN Stack , Spring Boot**
+### 💻 Java & Spring Boot Expertise
+- **Backend Development:** Spring Boot, Spring REST API, Spring Data, Hibernate, H2 Database, Lombok, Spring Web, Spring Dev Tools  
+- **Advanced Spring:** Spring Cloud, Spring AI, Microservices, Spring Authorization Server, Spring Security, Spring Session  
+- Delivering **secure, efficient, and maintainable** enterprise solutions
 
-- 📫 How to reach me **bhandvivek974@gmail.com**
+---
 
-- 📄 Know about my experiences [Check my Resume](https://drive.google.com/file/d/1pocPFgGciOEp8l9TBDOt8ImBH3-cioQk/view)
+### 🌐 MERN Stack Development
+- **Frontend:** React.js, Redux, TailwindCSS, Bootstrap
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- Building **dynamic and responsive** full-stack applications with clean code, strong backend architecture, and intuitive UI/UX
 
+---
+
+### ⚙️ Other Skills
+- **Programming:** C++, Java, JavaScript, Python  
+- **Data Handling & Visualization:** 📊 Power BI, Excel, 🛢️ SQL  
+- **Design Tools:** 🎨 Canva, Adobe Illustrator, Photoshop  
+- **Problem Solving:** DSA Enthusiast with a strong foundation in logic and algorithm design
+
+---
+
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://my-portfolio-eight-bice-18.vercel.app/)  
+- 📄 Know about my experiences [**Check my Resume**](https://drive.google.com/file/d/1pocPFgGciOEp8l9TBDOt8ImBH3-cioQk/view)  
+- 💬 Ask me about **DSA , MERN Stack , Spring Boot**  
+- 📫 How to reach me **bhandvivek974@gmail.com**  
 - 🌱 I’m currently learning **AWS & Docker**
+
+---
+
 
 
 <h3 align="left">Connect with me:</h3>
