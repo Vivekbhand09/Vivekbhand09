@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
 
 <p align="center">
-I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot</b> for the backend and <b>React.js</b> for the frontend.
+I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot.</b> For the backend and <b>React.js</b> for the frontend.
 </p>
 
 ---
