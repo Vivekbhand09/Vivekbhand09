@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
 
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![JWT](https://img.shields.io/badge/Security-JWT-yellow)
+![Apache POI](https://img.shields.io/badge/Excel-Apache%20POI-brightgreen)
+![Brevo](https://img.shields.io/badge/Email-Brevo-purple)
+![Cloudinary](https://img.shields.io/badge/Image%20Upload-Cloudinary-lightblue)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Redux](https://img.shields.io/badge/State-Redux-purple)
+![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-teal)
+![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-purple)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Express.js](https://img.shields.io/badge/Backend-Express.js-black)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
+![Postman](https://img.shields.io/badge/API-Postman-orange)
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+
 <p align="center">
 I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot.</b> For the backend and <b>React.js</b> for the frontend.
 </p>
