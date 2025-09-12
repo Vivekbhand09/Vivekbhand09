@@ -30,11 +30,17 @@ I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, s
 I specialize in **enterprise-grade backend development**, building **secure, scalable, and maintainable systems** using the **complete Spring ecosystem** and modern Java tools.  
 
 - **⚙️ Backend Frameworks & Tools:**  
-  **Core Java & Spring:** Spring Framework, Spring Boot, Spring Web, Spring REST API, Spring Data JPA, Hibernate, Lombok  
-  **Security & Authentication:** Spring Security, OAuth2, JWT, Spring Authorization Server, Spring Session, Clerk  
-  **Testing & Validation:** JUnit, Mockito, Spring Validation  
-  **Advanced & Cloud:** Spring Cloud, Spring AI, Spring Mail  
-  **Build & Dev Tools:** Maven, Gradle, Spring Dev Tools, Brevo, Apache POI
+  - **Core Java & Spring:**  
+    Spring Framework, Spring Boot, Spring Web, Spring REST API, Spring Data JPA, Hibernate, Lombok  
+  - **Security & Authentication:**  
+    Spring Security, OAuth2, JWT, Spring Authorization Server, Spring Session, Clerk  
+  - **Testing & Validation:**  
+    JUnit, Mockito, Spring Validation  
+  - **Advanced & Cloud:**  
+    Spring Cloud, Spring AI, Spring Mail  
+  - **Build & Dev Tools:**  
+    Maven, Gradle, Spring Dev Tools, Brevo, Apache POI
+
 
 - **🏗️ Architecture & Design:**  
   MVC Architecture, RESTful APIs, Real-time Communication (Socket.io)  
