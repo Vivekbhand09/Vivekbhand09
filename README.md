@@ -1,27 +1,42 @@
 <h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
 
-![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
+
 ![Java](https://img.shields.io/badge/Language-Java-orange)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Embedded C](https://img.shields.io/badge/Language-Embedded%20C-lightgrey)
+![SQL](https://img.shields.io/badge/Language-SQL-red)
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Express.js](https://img.shields.io/badge/Backend-Express.js-black)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
 ![JWT](https://img.shields.io/badge/Security-JWT-yellow)
+![Razorpay](https://img.shields.io/badge/Payment-Razorpay-blue)
+![Gemini API](https://img.shields.io/badge/API-Gemini%20AI-lightblue)
+![Socket.io](https://img.shields.io/badge/Real-time-Socket.io-purple)
 ![Apache POI](https://img.shields.io/badge/Excel-Apache%20POI-brightgreen)
 ![Brevo](https://img.shields.io/badge/Email-Brevo-purple)
 ![Cloudinary](https://img.shields.io/badge/Image%20Upload-Cloudinary-lightblue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Redux](https://img.shields.io/badge/State-Redux-purple)
 ![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-teal)
 ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-purple)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![Express.js](https://img.shields.io/badge/Backend-Express.js-black)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
 ![Postman](https://img.shields.io/badge/API-Postman-orange)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-lightgrey)
+![Netlify](https://img.shields.io/badge/Deployment-Netlify-lightblue)
+![Render](https://img.shields.io/badge/Deployment-Render-blue)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
+
 
 <p align="center">
-I’m a <b>Full Stack Java & MERN Stack Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot</b> for the backend and <b>React.js / MERN Stack</b> for the frontend.
+I’m a <b>Full Stack Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b>. I specialize in <b>Java (Spring Boot)</b> for backend development and <b>React.js / MERN Stack</b> for creating dynamic, responsive frontends and full-stack solutions.
 </p>
+
 
 
 ---
