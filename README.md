@@ -84,7 +84,7 @@ I build **dynamic, responsive, and full-featured web applications** using the **
 ---
 
 ### ⚙️ Other Skills
-- **Programming:** C++, Java, JavaScript, Python  
+- **Programming:** C++, Java, JavaScript, Embedded C 
 - **Data Handling & Visualization:** 📊 Power BI, Excel, 🛢️ SQL  
 - **Design Tools:** 🎨 Canva, Adobe Illustrator, Photoshop  
 - **Problem Solving:** DSA Enthusiast with a strong foundation in logic and algorithm design
