@@ -26,17 +26,53 @@ I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, s
 ---
 
 ### 💻 Java & Spring Boot Expertise
-- **Backend Development:** Spring Boot, Spring REST API, Spring Data, Hibernate, H2 Database, Lombok, Spring Web, Spring Dev Tools  
-- **Advanced Spring:** Spring Cloud, Spring AI, Microservices, Spring Authorization Server, Spring Security, Spring Session  
-- Delivering **secure, efficient, and maintainable** enterprise solutions
+
+I specialize in **enterprise-grade backend development**, building **secure, scalable, and maintainable systems** using the **complete Spring ecosystem** and modern Java tools.  
+
+- **⚙️ Backend Frameworks & Tools:**  
+  **Core Java & Spring:** Spring Framework, Spring Boot, Spring Web, Spring REST API, Spring Data JPA, Hibernate, Lombok  
+  **Security & Authentication:** Spring Security, OAuth2, JWT, Spring Authorization Server, Spring Session, Clerk  
+  **Testing & Validation:** JUnit, Mockito, Spring Validation  
+  **Advanced & Cloud:** Spring Cloud, Spring AI, Spring Mail  
+  **Build & Dev Tools:** Maven, Gradle, Spring Dev Tools, Brevo, Apache POI
+
+- **🏗️ Architecture & Design:**  
+  MVC Architecture, RESTful APIs, Real-time Communication (Socket.io)  
+
+- **🗄️ Databases & Persistence:**  
+  H2 Database, MySQL, MongoDB, Firebase  
+
+- **🔗 Integration & APIs:**  
+  Razorpay Payment Gateway, Gemini Generative AI API  
+
+- **🚀 DevOps & Deployment:**  
+  Git, GitHub, Docker, Vercel, Netlify, Render, AWS S3  
+
+- **🏆 Achievements:**  
+  Designed and delivered backend systems integrated with **Gemini AI API 🤖**, **payment gateways like Razorpay 💳**, and **real-time communication using Socket.io ⚡**
+
 
 ---
 
 ### 🌐 MERN Stack Development
-- **Frontend:** React.js, Redux, TailwindCSS, Bootstrap
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- Building **dynamic and responsive** full-stack applications with clean code, strong backend architecture, and intuitive UI/UX
+
+I build **dynamic, responsive, and full-featured web applications** using the **MERN stack**, focusing on **clean code, scalability, and intuitive UI/UX**.  
+
+- **🖥️ Frontend Technologies & Libraries:**  
+  React.js, Redux, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React Router, Bootstrap, Material UI, VITE, Zustand, Axios, Mantine, Lucide  
+
+- **⚙️ Backend Technologies:**  
+  Node.js, Express.js, RESTful APIs, JWT Authentication, Socket.io , Clerk, Sentry
+
+- **🗄️ Databases & Persistence:**  
+  MongoDB, Firebase  
+
+- **🔗 Integration & Tools:**  
+  Razorpay Payment Gateway, Gemini Generative AI API  
+
+- **🎯 Focus:**  
+  Building **scalable, maintainable, and visually appealing full-stack applications** with strong backend architecture and smooth, intuitive frontend experiences
+
 
 ---
 
