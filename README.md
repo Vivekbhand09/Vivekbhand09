@@ -13,7 +13,7 @@
 ![JWT](https://img.shields.io/badge/Security-JWT-yellow)
 ![Razorpay](https://img.shields.io/badge/Payment-Razorpay-blue)
 ![Gemini API](https://img.shields.io/badge/API-Gemini%20AI-lightblue)
-![Socket.io](https://img.shields.io/badge/Real-time-Socket.io-purple)
+![Socket.io](https://img.shields.io/badge/Socket.io-RealTime-purple)
 ![Apache POI](https://img.shields.io/badge/Excel-Apache%20POI-brightgreen)
 ![Brevo](https://img.shields.io/badge/Email-Brevo-purple)
 ![Cloudinary](https://img.shields.io/badge/Image%20Upload-Cloudinary-lightblue)
@@ -30,7 +30,7 @@
 ![Netlify](https://img.shields.io/badge/Deployment-Netlify-lightblue)
 ![Render](https://img.shields.io/badge/Deployment-Render-blue)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-yellow)
 
 
 <p align="center">
