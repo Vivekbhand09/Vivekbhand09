@@ -20,8 +20,9 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
 
 <p align="center">
-I’m a <b>Full Stack Java Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot.</b> For the backend and <b>React.js</b> for the frontend.
+I’m a <b>Full Stack Java & MERN Stack Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b> using <b>Spring Boot</b> for the backend and <b>React.js / MERN Stack</b> for the frontend.
 </p>
+
 
 ---
 
