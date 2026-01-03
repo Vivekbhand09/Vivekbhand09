@@ -1,114 +1,108 @@
-<h1 align="center">Hi 👋, I'm Vivek Madhukar Bhand</h1>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-0078D4?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-2C2255?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge)
+![Tempo](https://img.shields.io/badge/Grafana_Tempo-F46800?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 
 
-![Java](https://img.shields.io/badge/Language-Java-orange)
-![C++](https://img.shields.io/badge/Language-C++-blue)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![Embedded C](https://img.shields.io/badge/Language-Embedded%20C-lightgrey)
-![SQL](https://img.shields.io/badge/Language-SQL-red)
-![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![Express.js](https://img.shields.io/badge/Backend-Express.js-black)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
-![JWT](https://img.shields.io/badge/Security-JWT-yellow)
-![Razorpay](https://img.shields.io/badge/Payment-Razorpay-blue)
-![Gemini API](https://img.shields.io/badge/API-Gemini%20AI-lightblue)
-![Socket.io](https://img.shields.io/badge/Socket.io-RealTime-purple)
-![Apache POI](https://img.shields.io/badge/Excel-Apache%20POI-brightgreen)
-![Brevo](https://img.shields.io/badge/Email-Brevo-purple)
-![Cloudinary](https://img.shields.io/badge/Image%20Upload-Cloudinary-lightblue)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Redux](https://img.shields.io/badge/State-Redux-purple)
-![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-teal)
-![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-purple)
-![Postman](https://img.shields.io/badge/API-Postman-orange)
-![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-lightgrey)
-![Netlify](https://img.shields.io/badge/Deployment-Netlify-lightblue)
-![Render](https://img.shields.io/badge/Deployment-Render-blue)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-yellow)
 
+I’m **𝐕𝐢𝐯𝐞𝐤 𝐁𝐡𝐚𝐧𝐝**, a passionate **𝐉𝐚𝐯𝐚 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭 & 𝐂𝐥𝐨𝐮𝐝-𝐍𝐚𝐭𝐢𝐯𝐞 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** 👨‍💻 with a strong foundation in backend engineering, scalable system design, and problem-solving 🚀🧠.
 
-<p align="center">
-I’m a <b>Full Stack Developer</b> with expertise in building <b>robust, scalable, and enterprise-grade applications</b>. I specialize in <b>Java (Spring Boot)</b> for backend development and <b>React.js / MERN Stack</b> for creating dynamic, responsive frontends and full-stack solutions.
-</p>
+I specialize in building **robust, secure, and high-performance backend systems** using **Spring Boot, RESTful APIs, and Microservices architecture**, with hands-on experience in **Spring Cloud, security, observability, and containerized deployments**. I also bring **full-stack development experience** using the **MERN stack**, enabling me to build and deliver complete end-to-end applications 🌐.
 
-
-
----
-
-
-### 💻 Java & Spring Boot Expertise
-
-I specialize in **enterprise-grade backend development**, building **secure, scalable, and maintainable systems** using the **complete Spring ecosystem** and modern Java tools.  
-
-- **⚙️ Backend Frameworks & Tools:**  
-  - **Core Java & Spring:**  
-    Spring Framework, Spring Boot, Spring Web, Spring REST API, Spring Data JPA, Hibernate, Lombok  
-  - **Security & Authentication:**  
-    Spring Security, OAuth2, JWT, Spring Authorization Server, Spring Session, Clerk  
-  - **Testing & Validation:**  
-    JUnit, Mockito, Spring Validation  
-  - **Advanced & Cloud:**  
-    Spring Cloud, Spring AI, Spring Mail  
-  - **Build & Dev Tools:**  
-    Maven, Gradle, Spring Dev Tools, Brevo, Apache POI
-
-
-- **🏗️ Architecture & Design:**  
-  MVC Architecture, RESTful APIs, Real-time Communication (Socket.io)  
-
-- **🗄️ Databases & Persistence:**  
-  H2 Database, MySQL, MongoDB, Firebase  
-
-- **🔗 Integration & APIs:**  
-  Razorpay Payment Gateway, Gemini Generative AI API  
-
-- **🚀 DevOps & Deployment:**  
-  Git, GitHub, Docker, Vercel, Netlify, Render, AWS S3  
-
-- **🏆 Achievements:**  
-  Designed and delivered backend systems integrated with **Gemini AI API 🤖**, **payment gateways like Razorpay 💳**, and **real-time communication using Socket.io ⚡**
-
+I enjoy designing **clean APIs**, implementing **fault-tolerant microservices**, securing applications with **JWT & OAuth2**, and working close to the core of **distributed systems**.
 
 ---
 
-### 🌐 MERN Stack Development
+## 💻 Technical Expertise
 
-I build **dynamic, responsive, and full-featured web applications** using the **MERN stack**, focusing on **clean code, scalability, and intuitive UI/UX**.  
+### 🔹 Core Skills
+- Java Full-Stack Development, MERN Full Stack Development, Data Structures & Algorithms, OOP
 
-- **🖥️ Frontend Technologies & Libraries:**  
-  React.js, Redux, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React Router, Bootstrap, Material UI, VITE, Zustand, Axios, Mantine, Lucide  
+### 🔹 Programming Languages
+- Java, C++, SQL, JavaScript
 
-- **⚙️ Backend Technologies:**  
-  Node.js, Express.js, RESTful APIs, JWT Authentication, Socket.io , Clerk, Sentry
+### 🔹 Frontend
+- React.js, HTML, CSS, Tailwind CSS, Bootstrap  
+- Redux, React Router, Axios
 
-- **🗄️ Databases & Persistence:**  
-  MongoDB, Firebase  
+### 🔹 Backend
+- Spring Framework, Spring Boot, Spring Security  
+- REST APIs, JWT, Razorpay Integration  
+- Maven, Gradle, MVC Architecture  
+- Node.js, Express.js, Gemini API, Socket.io
 
-- **🔗 Integration & Tools:**  
-  Razorpay Payment Gateway, Gemini Generative AI API  
+### 🔹 Microservices & Cloud
+- Spring Cloud Config, Eureka Service Discovery, API Gateway, OpenFeign  
+- RabbitMQ, Resilience4j (Circuit Breaker, Retry, Rate Limiter)  
+- Docker, Kubernetes  
+- OAuth2/OIDC, Keycloak  
+- Prometheus, Grafana, Loki, Tempo, Alloy
 
-- **🎯 Focus:**  
-  Building **scalable, maintainable, and visually appealing full-stack applications** with strong backend architecture and smooth, intuitive frontend experiences
+### 🔹 Databases
+- MongoDB, MySQL, Firebase
 
+### 🔹 Deployment / Cloud Tools
+- Vercel, Render, Netlify  
+- Git, GitHub, Docker  
+- Cloudinary, AWS S3
 
 ---
 
-### ⚙️ Other Skills
-- **Programming:** C++, Java, JavaScript, Embedded C 
-- **Data Handling & Visualization:** 📊 Power BI, Excel, 🛢️ SQL  
-- **Design Tools:** 🎨 Canva, Adobe Illustrator, Photoshop  
-- **Problem Solving:** DSA Enthusiast with a strong foundation in logic and algorithm design
+## 🧠 Problem Solving & Competitive Programming
+- 🏆 Solved **250+ problems on LeetCode**  
+- 🏆 Solved **300+ problems on GeeksforGeeks** (Institute Rank 305)  
+- ⭐ **3-Star HackerRank Coder**
+
+These experiences reflect my **strong analytical thinking**, **logical reasoning**, and ability to **optimize solutions**.
+
+---
+
+## 🚀 What Drives Me
+I genuinely enjoy solving **complex backend challenges**, exploring **cloud-native architectures**, and implementing technologies that solve **real-world problems** 💡. I’m a **backend-first engineer** who loves understanding how systems behave under load and continuously improving **performance, security, and scalability**.
+
+🎓 I’ve been actively involved in **web and backend development since my 2nd year of college**, consistently learning, building **production-grade projects**, and strengthening my **engineering fundamentals** 📈.
+
 
 ---
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://my-portfolio-1glq.vercel.app/)
-- 📄 Know about my experiences [**Check my Resume**](https://drive.google.com/file/d/1pocPFgGciOEp8l9TBDOt8ImBH3-cioQk/view)  
+- 📄 Know about my experiences [**Check my Resume**](https://drive.google.com/file/d/11ENIEJSxCmNDxXmWdNckRRj52K0AXvf3/view?usp=drive_link)  
 - 💬 Ask me about **DSA , MERN Stack , Spring Boot**  
 - 📫 How to reach me **bhandvivek974@gmail.com**  
 - 🌱 I’m currently learning **AWS & Docker**
