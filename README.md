@@ -80,7 +80,7 @@ I enjoy designing **clean APIs**, implementing **fault-tolerant microservices**,
 ### 🔹 Deployment / Cloud Tools
 - Vercel, Render, Netlify  
 - Git, GitHub, Docker  
-- Cloudinary, AWS S3
+- Cloudinary, AWS S3, AWS Elastic Beanstalk , GCP
 
 ---
 
