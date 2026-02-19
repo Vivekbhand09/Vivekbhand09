@@ -70,9 +70,11 @@ I enjoy designing **clean APIs**, implementing **fault-tolerant microservices**,
 ### 🔹 Microservices & Cloud
 - Spring Cloud Config, Eureka Service Discovery, API Gateway, OpenFeign  
 - RabbitMQ, Resilience4j (Circuit Breaker, Retry, Rate Limiter)  
-- Docker, Kubernetes  
+- Docker, Kubernetes
+- Load Balancing, Gateway Routing and Cross Cutting Concerns 
 - OAuth2/OIDC, Keycloak  
 - Prometheus, Grafana, Loki, Tempo, Alloy
+- Deployment into Google Cloud Kubernetes Cluster
 
 ### 🔹 Databases
 - MongoDB, MySQL, Firebase
